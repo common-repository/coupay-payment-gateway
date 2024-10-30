@@ -1,0 +1,21 @@
+.payment_method_woocommerce-coupay {
+    padding-top: 2px !important;
+}
+
+.payment_method_woocommerce-coupay p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.payment_method_woocommerce-coupay label  img {
+    max-width: 18px !important;
+    margin-top: 2px !important;
+    float: right;
+}
+
+.button#place_order {
+    background-color: #379aff !important;
+    border-radius: 5px;
+    width: 100%;
+}
+
